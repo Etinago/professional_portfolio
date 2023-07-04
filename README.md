@@ -9,7 +9,7 @@ What you see today will be basis of a better and improved tomorrow.
 N/A
 
 ## Screenshots of site
-
+![Alt text](./images/image.png)
 ## Links 
 
 ## Credits 
