@@ -69,11 +69,14 @@ section#contact p {
     font-size: 20px;
   }
 
-  nav ul li {
-    display: block;
+  nav ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    justify-items: center;
     margin-bottom: 10px;
   }
-
+  
   section {
     padding: 10px;
   }
